@@ -1,0 +1,3 @@
+
+# Ignore virtualenv version file
+.python-version
